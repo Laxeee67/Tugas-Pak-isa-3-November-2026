@@ -1,0 +1,15 @@
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\bin\Debug\net10.0\X_RPL_AXEL EMMANUEL.exe
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\bin\Debug\net10.0\X_RPL_AXEL EMMANUEL.deps.json
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\bin\Debug\net10.0\X_RPL_AXEL EMMANUEL.runtimeconfig.json
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\bin\Debug\net10.0\X_RPL_AXEL EMMANUEL.dll
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\bin\Debug\net10.0\X_RPL_AXEL EMMANUEL.pdb
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AXEL EMMANUEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AXEL EMMANUEL.AssemblyInfoInputs.cache
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AXEL EMMANUEL.AssemblyInfo.cs
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AXEL EMMANUEL.csproj.CoreCompileInputs.cache
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AXEL EMMANUEL.dll
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\refint\X_RPL_AXEL EMMANUEL.dll
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AXEL EMMANUEL.pdb
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AXEL EMMANUEL.genruntimeconfig.cache
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\ref\X_RPL_AXEL EMMANUEL.dll
+C:\Users\Axell\Documents\kelas 10 rpl\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\X_RPL_AXEL EMMANUEL\obj\Debug\net10.0\X_RPL_AX.8288C324.Up2Date

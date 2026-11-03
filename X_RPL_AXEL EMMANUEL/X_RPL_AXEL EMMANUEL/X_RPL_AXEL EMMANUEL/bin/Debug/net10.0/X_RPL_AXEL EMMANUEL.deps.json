@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "X_RPL_AXEL EMMANUEL/1.0.0": {
+        "runtime": {
+          "X_RPL_AXEL EMMANUEL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "X_RPL_AXEL EMMANUEL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
